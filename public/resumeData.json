@@ -6,10 +6,10 @@
     "image":"profilepic.jpg",
     "bio":"I love Python, Unix, Algorithms, Data Structures, Code Refactoring. I also do a bit of writing. My favorite writer is Anton Chekhov.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "civabhusal@gmail.com",
     "phone": "555-555-5555",
     "address":{
-      "street":"(Your Street)",
+      "street":"",
       "city":"Cleveland",
       "state":"Ohio",
       "zip": "44114"
@@ -19,38 +19,23 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/civa.bhusal",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/civaist",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/shivapbhusal/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/shivapbhusal",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -87,31 +72,31 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Python",
+        "level":"90%"
       },
       {
-        "name":"VueJs",
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Scala",
+        "level":"30%"
+      },
+      {
+        "name":"C++",
+        "level":"30%"
       }
     ]
   },
