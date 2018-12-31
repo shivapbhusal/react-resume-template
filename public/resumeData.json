@@ -4,7 +4,7 @@
     "occupation":"Software Engineer/ Writer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"I love Python, Unix, Algorithms, Data Structures, Code Refactoring. I also do a bit of writing. My favorite writer is Anton Chekhov.",
+    "bio":"I love working with anything that involves Python, Unix, Algorithms, Data Structures, Code Refactoring.I write fiction and creative nonfiction.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "civabhusal@gmail.com",
     "phone": "555-555-5555",
@@ -43,30 +43,48 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Bowling Green State University",
+        "degree":"MS in Computer Science",
+        "graduated":"May 2018",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Institute of Engineering, Pulchowk Campus",
+        "degree":"BE in Computer Engineering",
+        "graduated":"2015",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Ernst & Young",
+        "title":"Software Developer/Analyst",
+        "years":"Aug 2018- Present",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bowling Green State University",
+        "title":"Graduate Research Assistant",
+        "years":"May 2017- Aug 2018",
+        "description":""
+      },
+      {
+        "company":"Ernst &  Young",
+        "title":"Summer Intern",
+        "years":"Jun 2017- Aug 2017",
+        "description":""
+      },
+      {
+        "company":"Bowling Green State University",
+        "title":"Graduate Assistant",
+        "years":"Aug 2016- May 2018",
+        "description":""
+      },
+      {
+        "company":"Verscend Technologies",
+        "title":"Software Engineer",
+        "years":"Jan 2015- May 2016",
+        "description":""
       }
     ],
     "skills":[
