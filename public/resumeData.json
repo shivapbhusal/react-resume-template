@@ -1,19 +1,14 @@
 {
   "main": {
     "name":"Shiva Bhusal",
-    "occupation":"Software Engineer/ Writer",
+    "occupation":"Software Engineer,Writer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"I love working with anything that involves Python, Unix, Algorithms, Data Structures, Code Refactoring.I write fiction and creative nonfiction.",
+    "bio":"In different phases of my life, I wanted to become a physicist, an Ayurvedic Doctor, a monk (yes!), a cricketer, a journalist, a poet, a lover, and a romantic--I failed miserably in all of them, especially the later ones and for several years, I didn't know what I wanted to become. Since 2016, I have been pretending to be a Software Engineer and a Writer.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "civabhusal@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"",
-      "city":"Cleveland",
-      "state":"Ohio",
-      "zip": "44114"
-    },
+    "phone": "",
+    "address":"",
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
