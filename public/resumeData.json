@@ -4,7 +4,7 @@
     "occupation":"Software Engineer,Writer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"In different phases of my life, I wanted to become a physicist, an Ayurvedic Doctor, a monk (yes!), a cricketer, a journalist, a poet, a lover, and a romantic--I failed miserably in all of them, especially the later ones and for several years, I didn't know what I wanted to become. Since 2016, I have been pretending to be a Software Engineer and a Writer.",
+    "bio":"In different phases of my life, I wanted to become a physicist, an Ayurvedic Doctor, a monk (yes!), a cricketer, a journalist, a poet, a lover, and a romantic--I failed miserably in all of them, especially the later ones and for several years, I didn't know what I wanted to become. Since 2016, I have been aspiring to become a Software Engineer and a Writer, or at least pretending the aspiration.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "civabhusal@gmail.com",
     "phone": "",
@@ -52,7 +52,7 @@
     ],
     "work":[
       {
-        "company":"Ernst & Young",
+        "company":"Ernst & Young US LLP",
         "title":"Software Developer/Analyst",
         "years":"Aug 2018- Present",
         "description":""
@@ -64,7 +64,7 @@
         "description":""
       },
       {
-        "company":"Ernst &  Young",
+        "company":"Ernst & Young US LLP",
         "title":"Summer Intern",
         "years":"Jun 2017- Aug 2017",
         "description":""
@@ -78,6 +78,13 @@
       {
         "company":"Verscend Technologies",
         "title":"Software Engineer",
+        "years":"Jan 2015- May 2016",
+        "description":""
+      },
+
+      {
+        "company":"The Kathmandu Post",
+        "title":"Contributing Writer",
         "years":"Jan 2015- May 2016",
         "description":""
       }
